@@ -17,7 +17,7 @@ To get started with the Insurance Premium Calculator, please follow these steps:
    ```
    pip install -r requirements.txt
    ```
-3. Download the `insurance.csv` dataset from the [provided link](https://example.com/insurance.csv) and place it in the project directory.
+3. Download the `insurance.csv` dataset and place it in the project directory.
 4. You're now ready to use the Insurance Premium Calculator! Proceed to the [Usage](#usage) section for instructions.
 
 ## Usage
@@ -48,8 +48,6 @@ These dependencies are listed in the `requirements.txt` file and will be automat
 ## Model Performance
 Our machine learning models have achieved an impressive R-squared score of 0.85, indicating strong predictive performance. This level of accuracy ensures that the Insurance Premium Calculator provides users with reliable and trustworthy premium estimates.
 
-## Contributing
-Contributions to the Insurance Premium Calculator project are highly encouraged and welcomed. If you would like to contribute, please follow our [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
