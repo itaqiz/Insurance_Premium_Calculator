@@ -1,13 +1,21 @@
-# Insurance Premium Calculator
+# Insurance Premium Calculator 💰📊
 
 ## Project Overview
-The Insurance Premium Calculator project aims to provide users with accurate estimates of insurance premiums based on various personal factors. By leveraging advanced machine learning techniques, our application delivers reliable predictions to empower individuals in making informed decisions about their insurance coverage.
+Welcome to the Insurance Premium Calculator project! This project aims to provide users with accurate estimates of insurance premiums based on various personal factors. By leveraging advanced machine learning techniques, our application delivers reliable predictions to empower individuals in making informed decisions about their insurance coverage.
 
 ## Introduction
 Calculating insurance premiums is a complex and critical process in the insurance industry. Our project enhances the existing premium calculation capabilities by implementing state-of-the-art machine learning models. This allows us to provide users with more accurate and personalized premium estimates, enabling them to make well-informed decisions about their insurance needs.
 
 ## Group Information
-This is the semester project of BSAI-SEM-05 Machine Learning. The group members are Muhammad Taqui and Babar Ali, and the project is submitted to Dr. Asghar Ali Shah and Sir Umair Sajjad.
+🎓 This is the semester project of BSAI-SEM-05 Machine Learning at Bahria University. The group members are Muhammad Taqui and Babar Ali.
+
+## University
+🏫 Bahria University
+
+## Instructors
+👨‍🏫 This project is supervised by:
+- Dr. Asghar Ali Shah
+- Sir Umair Sajjad
 
 ## Installation and Setup
 To get started with the Insurance Premium Calculator, please follow these steps:
@@ -47,7 +55,3 @@ These dependencies are listed in the `requirements.txt` file and will be automat
 
 ## Model Performance
 Our machine learning models have achieved an impressive R-squared score of 0.85, indicating strong predictive performance. This level of accuracy ensures that the Insurance Premium Calculator provides users with reliable and trustworthy premium estimates.
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
